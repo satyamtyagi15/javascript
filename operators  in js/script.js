@@ -1,0 +1,1 @@
+console.log('operators are same as in other programming languages');
